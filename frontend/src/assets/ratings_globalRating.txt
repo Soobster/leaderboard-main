@@ -1,0 +1,34 @@
+	// useEffect(() => {
+	// 	const whatever = async () => {
+	// 		const q = query(collection(db, "gameSpecificReviews"))
+
+	// 		const querySnapshot = await getDocs(q)
+
+	// 		querySnapshot.forEach(async (gameSpecificRev) => {
+	// 			// doc.data() is never undefined for query doc snapshots
+	// 			console.log("=====", gameSpecificRev.id, " => ", gameSpecificRev.data())
+	// 			let ratings = { 0.5: 0, 1: 0, 1.5: 0, 2: 0, 2.5: 0, 3: 0, 3.5: 0, 4: 0, 4.5: 0, 5: 0 }
+	// 			let reviewSum = 0
+	// 			let reviewCount = 0
+	// 			const reviews = gameSpecificRev.data().reviews
+	// 			for (let i = 0; i < reviews.length; i++) {
+	// 				const reviewId = reviews[i]
+	// 				reviewCount += 1
+	// 				const reviewRef = doc(db, "reviews", reviewId)
+	// 				const reviewSnap = await getDoc(reviewRef)
+	// 				// console.log(`${gameSpecificRev.id}: ${reviewSnap.data().rating}`)
+	// 				const currentRating = reviewSnap.data().rating
+	// 				ratings[reviewSnap.data().rating] += 1
+	// 				reviewSum += currentRating
+	// 			}
+	// 			const globalRating = reviewSum / reviewCount
+	// 			console.log(ratings)
+	// 			console.log("avg:" + globalRating)
+	// 			await updateDoc(doc(db, "gameSpecificReviews", gameSpecificRev.id), {
+	// 				globalRating: globalRating,
+	// 				ratings: ratings
+	// 			})
+	// 		})
+	// 	}
+	// 	whatever()
+	// }, [])

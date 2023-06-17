@@ -1,0 +1,60 @@
+{
+	"name": "leaderboard",
+	"version": "0.1.0",
+	"proxy": "http://localhost:3005/",
+	"private": true,
+	"dependencies": {
+		"@devexpress/dx-react-chart": "^3.0.6",
+		"@devexpress/dx-react-chart-material-ui": "^3.0.6",
+		"@devexpress/dx-react-core": "^3.0.6",
+		"@emotion/react": "^11.10.5",
+		"@emotion/styled": "^11.10.5",
+		"@mui/icons-material": "^5.10.14",
+		"@mui/material": "^5.10.13",
+		"@mui/x-date-pickers": "^5.0.9",
+		"@testing-library/user-event": "^13.5.0",
+		"@uiw/react-color-colorful": "^1.1.2",
+		"dayjs": "^1.11.6",
+		"firebase": "^9.14.0",
+		"javascript-time-ago": "^2.5.9",
+		"react": "^18.2.0",
+		"react-beautiful-dnd": "^13.1.1",
+		"react-dom": "^18.2.0",
+		"react-material-ui-carousel": "^3.4.2",
+		"react-scripts": "5.0.1",
+		"react-spinners": "^0.13.7",
+		"react-toastify": "^9.1.1",
+		"uuidv4": "^6.2.13",
+		"web-vitals": "^2.1.4"
+	},
+	"scripts": {
+		"start": "react-scripts start",
+		"build": "react-scripts build",
+		"test": "react-scripts test",
+		"eject": "react-scripts eject"
+	},
+	"eslintConfig": {
+		"extends": [
+			"react-app",
+			"react-app/jest"
+		]
+	},
+	"browserslist": {
+		"production": [
+			">0.2%",
+			"not dead",
+			"not op_mini all"
+		],
+		"development": [
+			"last 1 chrome version",
+			"last 1 firefox version",
+			"last 1 safari version"
+		]
+	},
+	"devDependencies": {
+		"@testing-library/jest-dom": "^5.16.5",
+		"@testing-library/react": "^13.4.0",
+		"react-router-dom": "^6.4.3",
+		"react-test-renderer": "^18.2.0"
+	}
+}

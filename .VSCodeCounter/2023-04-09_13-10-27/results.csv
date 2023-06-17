@@ -1,0 +1,92 @@
+"filename", "language", "JavaScript", "JavaScript JSX", "CSS", "JSON", "XML", "comment", "blank", "total"
+"c:\Users\amand\Code\source\repos\leaderboard\frontend\src\App.css", "CSS", 0, 0, 31, 0, 0, 0, 8, 39
+"c:\Users\amand\Code\source\repos\leaderboard\frontend\src\App.js", "JavaScript", 106, 0, 0, 0, 0, 0, 3, 109
+"c:\Users\amand\Code\source\repos\leaderboard\frontend\src\__tests__\BacklogPreviewComponent.test.js", "JavaScript", 14, 0, 0, 0, 0, 0, 3, 17
+"c:\Users\amand\Code\source\repos\leaderboard\frontend\src\__tests__\FooterComponent.test.js", "JavaScript", 15, 0, 0, 0, 0, 0, 3, 18
+"c:\Users\amand\Code\source\repos\leaderboard\frontend\src\__tests__\GamePreviewComponent.test.js", "JavaScript", 14, 0, 0, 0, 0, 0, 3, 17
+"c:\Users\amand\Code\source\repos\leaderboard\frontend\src\__tests__\HighestRatedComponent.test.js", "JavaScript", 14, 0, 0, 0, 0, 0, 3, 17
+"c:\Users\amand\Code\source\repos\leaderboard\frontend\src\__tests__\ProfileComponent.test.js", "JavaScript", 14, 0, 0, 0, 0, 0, 3, 17
+"c:\Users\amand\Code\source\repos\leaderboard\frontend\src\__tests__\RecentReviewsComponent.test.js", "JavaScript", 14, 0, 0, 0, 0, 0, 3, 17
+"c:\Users\amand\Code\source\repos\leaderboard\frontend\src\__tests__\RecommendedComponent.test.js", "JavaScript", 14, 0, 0, 0, 0, 0, 3, 17
+"c:\Users\amand\Code\source\repos\leaderboard\frontend\src\__tests__\TagComponent.test.js", "JavaScript", 14, 0, 0, 0, 0, 0, 3, 17
+"c:\Users\amand\Code\source\repos\leaderboard\frontend\src\assets\Leaderboard_Logos\logo_black_favicon_package\browserconfig.xml", "XML", 0, 0, 0, 0, 9, 0, 1, 10
+"c:\Users\amand\Code\source\repos\leaderboard\frontend\src\assets\Leaderboard_Logos\logo_black_favicon_package\safari-pinned-tab.svg", "XML", 0, 0, 0, 0, 71, 0, 1, 72
+"c:\Users\amand\Code\source\repos\leaderboard\frontend\src\assets\Leaderboard_Logos\logo_black_favicon_package\site.webmanifest", "JSON", 0, 0, 0, 19, 0, 0, 1, 20
+"c:\Users\amand\Code\source\repos\leaderboard\frontend\src\assets\Leaderboard_Logos\logo_black_purple_favicon_package\browserconfig.xml", "XML", 0, 0, 0, 0, 9, 0, 1, 10
+"c:\Users\amand\Code\source\repos\leaderboard\frontend\src\assets\Leaderboard_Logos\logo_black_purple_favicon_package\safari-pinned-tab.svg", "XML", 0, 0, 0, 0, 69, 0, 1, 70
+"c:\Users\amand\Code\source\repos\leaderboard\frontend\src\assets\Leaderboard_Logos\logo_black_purple_favicon_package\site.webmanifest", "JSON", 0, 0, 0, 19, 0, 0, 1, 20
+"c:\Users\amand\Code\source\repos\leaderboard\frontend\src\assets\Leaderboard_Logos\logo_white_favicon_package\browserconfig.xml", "XML", 0, 0, 0, 0, 9, 0, 1, 10
+"c:\Users\amand\Code\source\repos\leaderboard\frontend\src\assets\Leaderboard_Logos\logo_white_favicon_package\safari-pinned-tab.svg", "XML", 0, 0, 0, 0, 95, 0, 1, 96
+"c:\Users\amand\Code\source\repos\leaderboard\frontend\src\assets\Leaderboard_Logos\logo_white_favicon_package\site.webmanifest", "JSON", 0, 0, 0, 19, 0, 0, 1, 20
+"c:\Users\amand\Code\source\repos\leaderboard\frontend\src\assets\Leaderboard_Logos\logo_white_purple_favicon_package\browserconfig.xml", "XML", 0, 0, 0, 0, 9, 0, 1, 10
+"c:\Users\amand\Code\source\repos\leaderboard\frontend\src\assets\Leaderboard_Logos\logo_white_purple_favicon_package\safari-pinned-tab.svg", "XML", 0, 0, 0, 0, 5373, 0, 1, 5374
+"c:\Users\amand\Code\source\repos\leaderboard\frontend\src\assets\Leaderboard_Logos\logo_white_purple_favicon_package\site.webmanifest", "JSON", 0, 0, 0, 19, 0, 0, 1, 20
+"c:\Users\amand\Code\source\repos\leaderboard\frontend\src\components\ActionBoxComponent.jsx", "JavaScript JSX", 0, 314, 0, 0, 0, 50, 56, 420
+"c:\Users\amand\Code\source\repos\leaderboard\frontend\src\components\AddGameToListComponent.jsx", "JavaScript JSX", 0, 86, 0, 0, 0, 0, 12, 98
+"c:\Users\amand\Code\source\repos\leaderboard\frontend\src\components\BacklogComponent.jsx", "JavaScript JSX", 0, 149, 0, 0, 0, 11, 12, 172
+"c:\Users\amand\Code\source\repos\leaderboard\frontend\src\components\BacklogPreviewComponent.jsx", "JavaScript JSX", 0, 156, 0, 0, 0, 1, 10, 167
+"c:\Users\amand\Code\source\repos\leaderboard\frontend\src\components\BadgesComponent.jsx", "JavaScript JSX", 0, 518, 0, 0, 0, 23, 49, 590
+"c:\Users\amand\Code\source\repos\leaderboard\frontend\src\components\CommentComponent.jsx", "JavaScript JSX", 0, 408, 0, 0, 0, 29, 43, 480
+"c:\Users\amand\Code\source\repos\leaderboard\frontend\src\components\DraggableGameCoverComponent.jsx", "JavaScript JSX", 0, 32, 0, 0, 0, 2, 9, 43
+"c:\Users\amand\Code\source\repos\leaderboard\frontend\src\components\DraggableListComponent.jsx", "JavaScript JSX", 0, 182, 0, 0, 0, 32, 20, 234
+"c:\Users\amand\Code\source\repos\leaderboard\frontend\src\components\FooterComponent.jsx", "JavaScript JSX", 0, 63, 0, 0, 0, 4, 7, 74
+"c:\Users\amand\Code\source\repos\leaderboard\frontend\src\components\GamePreviewComponent.jsx", "JavaScript JSX", 0, 215, 0, 0, 0, 33, 22, 270
+"c:\Users\amand\Code\source\repos\leaderboard\frontend\src\components\GlobalRatingsGraphComponent.jsx", "JavaScript JSX", 0, 80, 0, 0, 0, 1, 5, 86
+"c:\Users\amand\Code\source\repos\leaderboard\frontend\src\components\ListSearchResultComponent.jsx", "JavaScript JSX", 0, 254, 0, 0, 0, 5, 26, 285
+"c:\Users\amand\Code\source\repos\leaderboard\frontend\src\components\NavbarComponent.jsx", "JavaScript JSX", 0, 293, 0, 0, 0, 16, 19, 328
+"c:\Users\amand\Code\source\repos\leaderboard\frontend\src\components\NotificationListItem.jsx", "JavaScript JSX", 0, 85, 0, 0, 0, 3, 7, 95
+"c:\Users\amand\Code\source\repos\leaderboard\frontend\src\components\PlatformComponent.jsx", "JavaScript JSX", 0, 29, 0, 0, 0, 9, 8, 46
+"c:\Users\amand\Code\source\repos\leaderboard\frontend\src\components\PreviewListComponent.jsx", "JavaScript JSX", 0, 329, 0, 0, 0, 20, 34, 383
+"c:\Users\amand\Code\source\repos\leaderboard\frontend\src\components\PrivateRoute.jsx", "JavaScript JSX", 0, 8, 0, 0, 0, 2, 3, 13
+"c:\Users\amand\Code\source\repos\leaderboard\frontend\src\components\ProfileComponent.jsx", "JavaScript JSX", 0, 463, 0, 0, 0, 14, 45, 522
+"c:\Users\amand\Code\source\repos\leaderboard\frontend\src\components\PublicRoute.jsx", "JavaScript JSX", 0, 6, 0, 0, 0, 0, 3, 9
+"c:\Users\amand\Code\source\repos\leaderboard\frontend\src\components\RecentActivityComponent.jsx", "JavaScript JSX", 0, 231, 0, 0, 0, 16, 20, 267
+"c:\Users\amand\Code\source\repos\leaderboard\frontend\src\components\RecommendedComponent.jsx", "JavaScript JSX", 0, 104, 0, 0, 0, 1, 8, 113
+"c:\Users\amand\Code\source\repos\leaderboard\frontend\src\components\ReviewComponent.jsx", "JavaScript JSX", 0, 1053, 0, 0, 0, 81, 97, 1231
+"c:\Users\amand\Code\source\repos\leaderboard\frontend\src\components\ReviewUnderGameComponent.jsx", "JavaScript JSX", 0, 918, 0, 0, 0, 63, 83, 1064
+"c:\Users\amand\Code\source\repos\leaderboard\frontend\src\components\ScrollableImageComponent.jsx", "JavaScript JSX", 0, 94, 0, 0, 0, 2, 12, 108
+"c:\Users\amand\Code\source\repos\leaderboard\frontend\src\components\SearchContainerComponent.jsx", "JavaScript JSX", 0, 171, 0, 0, 0, 0, 11, 182
+"c:\Users\amand\Code\source\repos\leaderboard\frontend\src\components\SearchDropdrownComponent.jsx", "JavaScript JSX", 0, 98, 0, 0, 0, 7, 8, 113
+"c:\Users\amand\Code\source\repos\leaderboard\frontend\src\components\SelectTagsComponent.jsx", "JavaScript JSX", 0, 53, 0, 0, 0, 9, 5, 67
+"c:\Users\amand\Code\source\repos\leaderboard\frontend\src\components\SideNavComponent.jsx", "JavaScript JSX", 0, 445, 0, 0, 0, 17, 19, 481
+"c:\Users\amand\Code\source\repos\leaderboard\frontend\src\components\SortReviewsComponent.jsx", "JavaScript JSX", 0, 120, 0, 0, 0, 13, 11, 144
+"c:\Users\amand\Code\source\repos\leaderboard\frontend\src\components\Spinner.jsx", "JavaScript JSX", 0, 13, 0, 0, 0, 0, 4, 17
+"c:\Users\amand\Code\source\repos\leaderboard\frontend\src\components\SpinnerComponent.jsx", "JavaScript JSX", 0, 6, 0, 0, 0, 0, 3, 9
+"c:\Users\amand\Code\source\repos\leaderboard\frontend\src\components\StarReviewComponent.jsx", "JavaScript JSX", 0, 214, 0, 0, 0, 19, 34, 267
+"c:\Users\amand\Code\source\repos\leaderboard\frontend\src\components\TagComponent.jsx", "JavaScript JSX", 0, 27, 0, 0, 0, 0, 4, 31
+"c:\Users\amand\Code\source\repos\leaderboard\frontend\src\components\TrendingComponent.jsx", "JavaScript JSX", 0, 98, 0, 0, 0, 1, 8, 107
+"c:\Users\amand\Code\source\repos\leaderboard\frontend\src\components\UserSearchResultComponent.jsx", "JavaScript JSX", 0, 156, 0, 0, 0, 3, 10, 169
+"c:\Users\amand\Code\source\repos\leaderboard\frontend\src\components\UserStatsComponent.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 1, 0, 1
+"c:\Users\amand\Code\source\repos\leaderboard\frontend\src\components\WriteReviewComponent.jsx", "JavaScript JSX", 0, 449, 0, 0, 0, 55, 55, 559
+"c:\Users\amand\Code\source\repos\leaderboard\frontend\src\components\lists\ListComponent.jsx", "JavaScript JSX", 0, 287, 0, 0, 0, 25, 38, 350
+"c:\Users\amand\Code\source\repos\leaderboard\frontend\src\components\lists\TierListComponent.jsx", "JavaScript JSX", 0, 498, 0, 0, 0, 31, 51, 580
+"c:\Users\amand\Code\source\repos\leaderboard\frontend\src\context\AuthContext.js", "JavaScript", 27, 0, 0, 0, 0, 0, 9, 36
+"c:\Users\amand\Code\source\repos\leaderboard\frontend\src\firebase.config.js", "JavaScript", 14, 0, 0, 0, 0, 7, 4, 25
+"c:\Users\amand\Code\source\repos\leaderboard\frontend\src\helperFunctions\backlogRecommendation.js", "JavaScript", 15, 0, 0, 0, 0, 3, 4, 22
+"c:\Users\amand\Code\source\repos\leaderboard\frontend\src\helperFunctions\checkGameCache.js", "JavaScript", 61, 0, 0, 0, 0, 4, 9, 74
+"c:\Users\amand\Code\source\repos\leaderboard\frontend\src\helperFunctions\commentNotifications.js", "JavaScript", 40, 0, 0, 0, 0, 3, 4, 47
+"c:\Users\amand\Code\source\repos\leaderboard\frontend\src\helperFunctions\commentsUpvotes.js", "JavaScript", 92, 0, 0, 0, 0, 4, 8, 104
+"c:\Users\amand\Code\source\repos\leaderboard\frontend\src\helperFunctions\computeNewRatingFunction.js", "JavaScript", 25, 0, 0, 0, 0, 1, 3, 29
+"c:\Users\amand\Code\source\repos\leaderboard\frontend\src\helperFunctions\listsUpvotes.js", "JavaScript", 71, 0, 0, 0, 0, 2, 8, 81
+"c:\Users\amand\Code\source\repos\leaderboard\frontend\src\helperFunctions\toasts.js", "JavaScript", 25, 0, 0, 0, 0, 0, 3, 28
+"c:\Users\amand\Code\source\repos\leaderboard\frontend\src\index.js", "JavaScript", 7, 0, 0, 0, 0, 7, 4, 18
+"c:\Users\amand\Code\source\repos\leaderboard\frontend\src\pages\AboutUsPage.jsx", "JavaScript JSX", 0, 255, 0, 0, 0, 0, 21, 276
+"c:\Users\amand\Code\source\repos\leaderboard\frontend\src\pages\AuthenticationPage.jsx", "JavaScript JSX", 0, 121, 0, 0, 0, 15, 13, 149
+"c:\Users\amand\Code\source\repos\leaderboard\frontend\src\pages\BacklogPage.jsx", "JavaScript JSX", 0, 23, 0, 0, 0, 0, 4, 27
+"c:\Users\amand\Code\source\repos\leaderboard\frontend\src\pages\CreateUserPage.jsx", "JavaScript JSX", 0, 296, 0, 0, 0, 67, 26, 389
+"c:\Users\amand\Code\source\repos\leaderboard\frontend\src\pages\FAQPage.jsx", "JavaScript JSX", 0, 272, 0, 0, 0, 169, 19, 460
+"c:\Users\amand\Code\source\repos\leaderboard\frontend\src\pages\GamePage.jsx", "JavaScript JSX", 0, 654, 0, 0, 0, 81, 78, 813
+"c:\Users\amand\Code\source\repos\leaderboard\frontend\src\pages\GamesReviewedPage.jsx", "JavaScript JSX", 0, 289, 0, 0, 0, 16, 26, 331
+"c:\Users\amand\Code\source\repos\leaderboard\frontend\src\pages\HomePage.jsx", "JavaScript JSX", 0, 213, 0, 0, 0, 32, 27, 272
+"c:\Users\amand\Code\source\repos\leaderboard\frontend\src\pages\ListsPage.jsx", "JavaScript JSX", 0, 330, 0, 0, 0, 12, 43, 385
+"c:\Users\amand\Code\source\repos\leaderboard\frontend\src\pages\NotFoundPage.jsx", "JavaScript JSX", 0, 52, 0, 0, 0, 0, 5, 57
+"c:\Users\amand\Code\source\repos\leaderboard\frontend\src\pages\ProfilePage.jsx", "JavaScript JSX", 0, 171, 0, 0, 0, 6, 24, 201
+"c:\Users\amand\Code\source\repos\leaderboard\frontend\src\pages\RecommendedPage.jsx", "JavaScript JSX", 0, 133, 0, 0, 0, 5, 9, 147
+"c:\Users\amand\Code\source\repos\leaderboard\frontend\src\pages\SearchPage.jsx", "JavaScript JSX", 0, 114, 0, 0, 0, 7, 14, 135
+"c:\Users\amand\Code\source\repos\leaderboard\frontend\src\pages\SettingsPage.jsx", "JavaScript JSX", 0, 356, 0, 0, 0, 95, 27, 478
+"c:\Users\amand\Code\source\repos\leaderboard\frontend\src\pages\TrendingPage.jsx", "JavaScript JSX", 0, 128, 0, 0, 0, 5, 9, 142
+"c:\Users\amand\Code\source\repos\leaderboard\frontend\src\pages\lists\ListPage.jsx", "JavaScript JSX", 0, 32, 0, 0, 0, 0, 5, 37
+"c:\Users\amand\Code\source\repos\leaderboard\frontend\src\pages\lists\TierListPage.jsx", "JavaScript JSX", 0, 32, 0, 0, 0, 0, 5, 37
+"c:\Users\amand\Code\source\repos\leaderboard\frontend\src\pages\lists\ViewListPage.jsx", "JavaScript JSX", 0, 528, 0, 0, 0, 27, 70, 625
+"c:\Users\amand\Code\source\repos\leaderboard\frontend\src\pages\lists\ViewTierListPage.jsx", "JavaScript JSX", 0, 555, 0, 0, 0, 27, 69, 651
+"Total", "-", 596, 13259, 31, 76, 5644, 1194, 1468, 22268

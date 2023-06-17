@@ -1,0 +1,14 @@
+// remember to also add what u r adding to CreateUserPage
+
+db.collection("users")
+		.get()
+		.then((querySnapshot) => {
+			querySnapshot.forEach((doc) => {
+				// doc.data() is never undefined for query doc snapshots
+				console.log(doc.id, " => ", doc.data())
+				var userRef = db.collection("users").doc(doc.id)
+				userRef.update({
+					recommended: {}
+				})
+			})
+		})

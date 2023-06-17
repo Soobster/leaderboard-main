@@ -1,0 +1,14 @@
+	useEffect(() => {
+		const whatever = async () => {
+			const q = query(collection(db, "users"))
+
+			const querySnapshot = await getDocs(q)
+
+			querySnapshot.forEach(async (user) => {
+				await updateDoc(doc(db, "users", user.id), {
+					notifications: []
+				})
+			})
+		}
+		whatever()
+	}, [])
